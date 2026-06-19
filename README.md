@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a00,100:333300&height=200&section=header&text=Muhammad%20Farhan&fontSize=52&fontColor=FFD700&fontAlignY=38&desc=ML%20Systems%20Engineer%20%7C%20Data%20Engineer%20%7C%20Upwork%20Rising%20Star%20%E2%AD%90&descAlignY=58&descSize=15&descColor=FFF176" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1a1a00,100:333300&height=160&section=header&text=Muhammad%20Farhan&fontSize=52&fontColor=FFD700&fontAlignY=55" />
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00FFFF&center=true&vCenter=true&width=650&lines=ML+Systems+Engineer+%F0%9F%94%AC;Data+Engineer+%E2%86%92+ML+Systems;Building+Pipelines+%7C+Infra+%7C+Algos;Upwork+Rising+Star+%E2%AD%90;FAST+NUCES+%7C+CS+Undergraduate)](https://git.io/typing-svg)
 
 </div>
 
