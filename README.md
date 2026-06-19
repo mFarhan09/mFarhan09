@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**mFarhan09/mFarhan09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you s<div align="center">
+<div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1e,50:0d2137,100:0a3d62&height=200&section=header&text=Muhammad%20Farhan&fontSize=52&fontColor=00d4ff&fontAlignY=38&desc=ML%20Systems%20Engineer%20in%20Progress%20%7C%20Data%20Engineer%20%7C%20Upwork%20Rising%20Star&descAlignY=58&descSize=15&descColor=7ecfff" />
 
@@ -156,14 +151,4 @@ Collection of Python concepts from fundamentals to ML libraries — a living ref
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a3d62,50:0d2137,100:0a0f1e&height=100&section=footer" />
 
-</div>tarted:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
