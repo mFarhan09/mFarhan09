@@ -40,26 +40,13 @@ class MuhammadFarhan:
 
 <div align="center">
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-1a1a00?style=for-the-badge&logo=python&logoColor=FFD700)
-![C++](https://img.shields.io/badge/C++-1a1a00?style=for-the-badge&logo=cplusplus&logoColor=FFD700)
-![Assembly](https://img.shields.io/badge/Assembly-1a1a00?style=for-the-badge&logo=assemblyscript&logoColor=FFD700)
-![SQL](https://img.shields.io/badge/SQL-1a1a00?style=for-the-badge&logo=postgresql&logoColor=FFD700)
-
-**ML & Data**
-
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-1a1a00?style=for-the-badge&logo=scikitlearn&logoColor=FFD700)
-![Pandas](https://img.shields.io/badge/Pandas-1a1a00?style=for-the-badge&logo=pandas&logoColor=FFD700)
-![NumPy](https://img.shields.io/badge/NumPy-1a1a00?style=for-the-badge&logo=numpy&logoColor=FFD700)
-![Streamlit](https://img.shields.io/badge/Streamlit-1a1a00?style=for-the-badge&logo=streamlit&logoColor=FFD700)
-
-**Systems & Infra**
-
-![Linux](https://img.shields.io/badge/Linux-1a1a00?style=for-the-badge&logo=linux&logoColor=FFD700)
-![Git](https://img.shields.io/badge/Git-1a1a00?style=for-the-badge&logo=git&logoColor=FFD700)
-![Docker](https://img.shields.io/badge/Docker-1a1a00?style=for-the-badge&logo=docker&logoColor=FFD700)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-1a1a00?style=for-the-badge&logo=githubactions&logoColor=FFD700)
+<img src="https://skillicons.dev/icons?i=python,cpp,postgresql,bash&theme=dark&perline=8" />
+<br/>
+<img src="https://skillicons.dev/icons?i=sklearn,pytorch,tensorflow,opencv&theme=dark&perline=8" />
+<br/>
+<img src="https://skillicons.dev/icons?i=linux,git,docker,githubactions&theme=dark&perline=8" />
+<br/>
+<img src="https://skillicons.dev/icons?i=vscode,fastapi,streamlit,anaconda&theme=dark&perline=8" />
 
 </div>
 
